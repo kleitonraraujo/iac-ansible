@@ -1,0 +1,5 @@
+---
+- src: https://github.com/lework/Ansible-roles.git
+  scm: git
+  version: master
+  name: hostnames
