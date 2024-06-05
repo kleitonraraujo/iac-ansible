@@ -3,9 +3,9 @@ dependencies: []
 
 galaxy_info:
   role_name: java
-  author: geerlingguy
+  author: kleitonraraujo
   description: Java for Linux
-  company: "Midwestern Mac, LLC"
+  company: "kleitonraraujo"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.10
   platforms:
