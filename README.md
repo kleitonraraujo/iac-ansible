@@ -1,5 +1,6 @@
 # iac-ansible
 Roles de instalação
-/apache
-/haproxy
-/java
+
+* **/apache**
+* **/haproxy**
+* **/java**
